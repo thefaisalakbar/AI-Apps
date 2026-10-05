@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exam Assessor</string>
+    <string name="app_tagline">Smart Photo Compressor &amp; Real-time Attendance</string>
+    <string name="max_size_label">Max 50 KB Target</string>
+    <string name="take_photo">Capture Photo</string>
+    <string name="compress_success">Photo compressed under 50KB</string>
+    <string name="share_to_pc">Direct PC Transfer</string>
+</resources>
